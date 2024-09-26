@@ -1,1 +1,1 @@
-# Detection-of-seatbelt-with-driver
+In this script we need to prove an input image folder. As output we will find one output folder with seatbelt and bounding box on whole body of driver and we will find one other folder that will store no-seatbelt image.# Detection-of-seatbelt-with-driver
